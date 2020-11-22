@@ -1,0 +1,16 @@
+#diceContainer, #diceContainer2
+{
+    width: 200px;
+    height: 200px;
+    margin-left:10px;
+    margin-bottom: 10px;
+}
+
+#diceContainer2 .dice-hole
+{
+    background: red;
+}
+#diceContainer
+{
+    background: lightgray;
+}
